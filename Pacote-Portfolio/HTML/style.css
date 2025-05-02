@@ -99,7 +99,12 @@ body {
   
   .contato-info {
     margin-top: 1rem;
-    padding-left: 0;
+    margin-right: 10%;
+  }
+
+  #imagem-de-baixo img{
+    margin-left: 10%;
+    width: 500px;
   }
   
   footer {
@@ -177,10 +182,10 @@ body {
   text-decoration: none; /* remove o sublinhado */
   font-weight: bold;
   transition: 0.3s;
-  border-radius: 5px;
+  border-radius: 10px;
   padding: 10px 12px;
   display: inline-block;
-  font-size: 16px;
+  font-size: 20px;
   margin: 10px 5px;
 }
 
